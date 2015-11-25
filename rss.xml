@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Jeremy Chinn]]></title>
+        <description><![CDATA[Jeremy Chinn]]></description>
+        <link>https://thegrid.ai/jormungand/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 25 Nov 2015 19:46:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jormungand/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome to the new site]]></title>
+            <description><![CDATA[<article><h1>Welcome to the new site</h1><p>Welcome to the new site on the grid!  Until there are gallery type layouts available this will be a more blog style site.  Please click here for an outside link to my older work.</p></article>]]></description>
+            <link>https://thegrid.ai/jormungand/welcome-to-the-new-site/index.html</link>
+            <guid isPermaLink="false">0c4e4d09-7a1f-4ae1-b59a-dbb8680de6b7</guid>
+            <pubDate>Wed, 25 Nov 2015 19:45:08 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
