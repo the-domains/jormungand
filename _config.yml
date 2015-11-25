@@ -1,7 +1,7 @@
 name: jormungand
 favicon: null
-layout_spectrum: 0.8556960541754961
-typography_spectrum: 0.42609457089565694
+layout_spectrum: 1
+typography_spectrum: 0.52778
 title: The art of Jeremy Chinn
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.6567474526818842
-  lightness: 0.6398063630331308
-  saturation: 0.0005148367490619421
-  rhythmicContrast: 0.7522737376857549
+    - '#404040'
+    - '#000000'
+    - '#fefefe'
+    - '#807d73'
+    - '#c6c6bc'
+  brandStrength: 0.5
+  lightness: 0.3125
+  saturation: 0.6875
+  rhythmicContrast: 0.75
 purpose: []
