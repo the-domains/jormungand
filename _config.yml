@@ -1,7 +1,7 @@
 name: jormungand
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.52778
+layout_spectrum: 0.52803
+typography_spectrum: 0.47041
 title: Jeremy Chinn
 cta:
   domain: null
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.5
   lightness: 0.3125
   saturation: 0.6875
-  rhythmicContrast: 0.75
+  rhythmicContrast: 1
 purpose: []
