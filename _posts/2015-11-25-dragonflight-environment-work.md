@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-25T20:11:23.489Z'
-dateModified: '2015-11-25T20:10:39.668Z'
+datePublished: '2015-11-25T20:15:15.098Z'
+dateModified: '2015-11-25T20:14:59.669Z'
 title: Dragonflight environment work
 author: []
+sourcePath: _posts/2015-11-25-dragonflight-environment-work.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-25-dragonflight-environment-work.md
-published: true
-_type: Blurb
+url: dragonflight-environment-work/index.html
+_type: Article
 
 ---
 Here's a couple on the environment pieces I created for the game Dragonflight.  Check it out over on [steam!][0]
