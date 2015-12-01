@@ -4,7 +4,7 @@
         <description><![CDATA[Jeremy Chinn]]></description>
         <link>https://thegrid.ai/jormungand/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Dec 2015 22:45:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Dec 2015 22:49:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jormungand/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to the new site]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/jormungand/welcome-to-the-new-site/index.html</link>
             <guid isPermaLink="false">0c4e4d09-7a1f-4ae1-b59a-dbb8680de6b7</guid>
             <pubDate>Wed, 25 Nov 2015 19:45:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Day in the Life of a Professional 3D Modeller]]></title>
+            <description><![CDATA[<article><h1>A Day in the Life of a Professional 3D Modeller</h1><p>Get to know the talented professional artists and animators who make up the team of educators at CG Spectrum. Meet CG Spectrum Mentor of 3D Modelling Jeremy Chinn. Jeremy Chinn has been a lead modeller and title designer on probably every big film you have heard of in the last 8 years.</p><img src="http://www.cgspectrum.edu.au/hs-fs/hubfs/blog/Jeremy_Chinn_Art/jeremy-chinn-cgspectrum-mentor-vampire.jpg?t=1448953565905&width=803&height=588"></article>]]></description>
+            <link>http://www.cgspectrum.edu.au/blog/what-it-is-like-to-be-a-professional-3d-modeller</link>
+            <guid isPermaLink="false">98fdd883-4b2d-439c-933e-66c7ffc8c6b7</guid>
+            <pubDate>Tue, 01 Dec 2015 22:48:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Free Tiger Animation Rig]]></title>
