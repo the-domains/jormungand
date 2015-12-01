@@ -4,7 +4,7 @@
         <description><![CDATA[Jeremy Chinn]]></description>
         <link>https://thegrid.ai/jormungand/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 Nov 2015 20:15:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Dec 2015 22:45:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jormungand/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to the new site]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/jormungand/welcome-to-the-new-site/index.html</link>
             <guid isPermaLink="false">0c4e4d09-7a1f-4ae1-b59a-dbb8680de6b7</guid>
             <pubDate>Wed, 25 Nov 2015 19:45:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Free Tiger Animation Rig]]></title>
+            <description><![CDATA[<article><h1>Free Tiger Animation Rig</h1><p>Are you ready to take your animation skills to the next level? Want to create the most ferocious four-legged beast you can possibly imagine? At CG Spectrum we believe that it's important to give back to the community so we're releasing a feature film quality quadruped tiger rig for free!</p><img src="http://www.cgspectrum.edu.au/hs-fs/hubfs/blog/free-tiger-rig-download.jpg?t=1448953565905&width=800&height=474"></article>]]></description>
+            <link>http://www.cgspectrum.edu.au/blog/free-tiger-animation-rig</link>
+            <guid isPermaLink="false">cc3e2cd2-931b-421c-ac9b-034d36f6f021</guid>
+            <pubDate>Tue, 01 Dec 2015 22:45:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dragonflight environment work]]></title>
